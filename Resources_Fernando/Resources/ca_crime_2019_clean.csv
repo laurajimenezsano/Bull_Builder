@@ -1,0 +1,731 @@
+County,Violent,Homicide,Rape,Robbery,AggAssault,Property,Burglary,VehicleTheft,Total
+Alameda County,633,5,27,210,391,2169,354,491,1324
+Alameda County,162,0,7,94,61,2579,218,403,1958
+Alameda County,40,0,8,21,11,685,105,46,534
+Alameda County,618,0,74,369,175,6256,771,492,4993
+Alameda County,166,0,12,114,40,2623,95,113,2415
+Alameda County,400,1,36,159,204,4523,547,568,3408
+Alameda County,552,5,54,275,218,4886,448,1241,3197
+Alameda County,193,2,30,39,122,1554,139,136,1279
+Alameda County,85,0,13,40,32,1399,187,122,1090
+Alameda County,5520,78,372,2859,2211,27868,2599,5041,20228
+Alameda County,14,0,3,5,6,227,46,19,162
+Alameda County,112,0,12,56,44,1632,149,97,1386
+Alameda County,454,0,18,283,153,4105,375,789,2941
+Alameda County,277,2,8,79,188,1718,192,226,1300
+Alameda County,44,0,3,21,20,357,73,10,274
+Alameda County,4,0,3,0,1,96,15,3,78
+Alameda County,1,0,0,0,1,29,20,0,9
+Alameda County,282,2,2,227,51,1796,13,149,1634
+Alameda County,107,0,7,43,57,1259,114,93,1052
+Alameda County,70,1,13,22,34,763,56,61,646
+Alameda County,0,0,0,0,0,207,0,167,40
+Alpine County,13,0,2,0,11,29,12,3,14
+Alpine County,0,0,0,0,0,3,1,1,1
+Amador County,66,1,3,8,54,416,146,2,268
+Amador County,11,0,1,1,9,46,9,2,35
+Amador County,30,0,3,0,27,133,15,11,107
+Amador County,3,0,1,0,2,44,8,6,30
+Amador County,0,0,0,0,0,0,0,0,0
+Amador County,0,0,0,0,0,31,0,16,15
+Butte County,283,5,32,28,218,1290,524,42,724
+Butte County,3,0,1,0,2,17,3,4,10
+Butte County,557,0,100,104,353,2406,272,381,1753
+Butte County,29,0,15,3,11,205,47,22,136
+Butte County,122,2,24,30,66,822,176,211,435
+Butte County,22,0,5,1,16,202,83,68,51
+Butte County,0,0,0,0,0,16,1,0,15
+Butte County,1,0,0,0,1,7,2,0,5
+Butte County,6,0,3,1,2,127,2,6,119
+Butte County,1,0,0,0,1,230,1,134,95
+Calaveras County,139,1,32,8,98,668,274,14,380
+Calaveras County,6,0,2,1,3,74,19,10,45
+Calaveras County,0,0,0,0,0,0,0,0,0
+Calaveras County,0,0,0,0,0,4,4,0,0
+Calaveras County,0,0,0,0,0,92,0,45,47
+Colusa County,26,0,8,4,14,169,53,5,111
+Colusa County,6,0,4,1,1,78,28,16,34
+Colusa County,20,0,3,4,13,76,28,14,34
+Colusa County,0,0,0,0,0,0,0,0,0
+Colusa County,6,0,0,0,6,24,0,21,3
+Contra Costa County,332,8,28,89,207,1499,411,35,1053
+Contra Costa County,648,12,55,238,343,3199,511,610,2078
+Contra Costa County,166,0,16,67,83,1335,142,98,1095
+Contra Costa County,1,0,0,1,0,155,14,4,137
+Contra Costa County,541,2,67,234,238,4560,434,614,3512
+Contra Costa County,152,1,4,91,56,1300,166,80,1054
+Contra Costa County,31,0,5,15,11,341,31,32,278
+Contra Costa County,59,0,2,17,40,866,77,63,726
+Contra Costa County,446,7,41,157,241,1660,256,421,983
+Contra Costa County,88,0,11,41,36,1484,112,96,1276
+Contra Costa County,1034,16,36,307,675,4188,469,1239,2480
+Contra Costa County,194,2,7,102,83,1009,101,319,589
+Contra Costa County,120,0,6,40,74,2496,307,155,2034
+Contra Costa County,5,0,1,1,3,48,15,8,25
+Contra Costa County,83,0,17,26,40,570,99,85,386
+Contra Costa County,4,0,1,3,0,358,42,30,286
+Contra Costa County,23,0,1,3,19,124,36,9,79
+Contra Costa County,61,0,4,34,23,676,2,82,592
+Contra Costa County,1,0,0,1,0,111,14,3,94
+Contra Costa County,23,1,5,7,10,296,36,13,247
+Contra Costa County,58,0,4,21,33,1099,179,51,869
+Contra Costa County,17,5,2,7,3,195,52,18,125
+Contra Costa County,0,0,0,0,0,2,0,0,2
+Contra Costa County,51,0,7,17,27,497,74,87,336
+Contra Costa County,0,0,0,0,0,487,0,447,40
+Del Norte County,84,2,11,18,53,424,192,4,228
+Del Norte County,23,0,2,8,13,311,59,14,238
+Del Norte County,2,0,0,0,2,69,0,29,40
+El Dorado County,173,3,47,29,94,1695,482,27,1186
+El Dorado County,39,0,2,6,31,281,67,50,164
+El Dorado County,111,2,10,20,79,449,79,35,335
+El Dorado County,0,0,0,0,0,0,0,0,0
+El Dorado County,0,0,0,0,0,134,1,34,99
+Fresno County,1082,14,38,102,928,3281,1378,599,1304
+Fresno County,243,0,54,32,157,2276,307,159,1810
+Fresno County,41,0,2,4,35,217,38,20,159
+Fresno County,11,0,2,2,7,103,15,37,51
+Fresno County,29,1,2,5,21,104,42,19,43
+Fresno County,2457,35,129,687,1606,14603,2321,2051,10231
+Fresno County,83,0,1,10,72,56,13,18,25
+Fresno County,23,0,3,4,16,308,58,36,214
+Fresno County,18,0,2,3,13,219,76,36,107
+Fresno County,83,1,4,4,74,155,45,60,50
+Fresno County,18,0,0,2,16,61,12,11,38
+Fresno County,62,0,2,9,51,179,24,49,106
+Fresno County,117,1,7,12,97,235,69,49,117
+Fresno County,156,0,9,15,132,304,59,67,178
+Fresno County,85,3,6,25,51,605,204,121,280
+Fresno County,0,0,0,0,0,136,11,5,120
+Fresno County,0,0,0,0,0,3,0,0,3
+Fresno County,3,0,0,0,3,5,1,0,4
+Fresno County,13,0,0,0,13,20,3,0,17
+Fresno County,11,0,3,2,6,162,17,16,129
+Fresno County,0,0,0,0,0,152,0,130,22
+Fresno County,202,0,3,0,199,11,1,0,10
+Glenn County,55,2,8,8,37,362,86,37,239
+Glenn County,33,0,4,8,21,134,23,25,86
+Glenn County,0,0,0,0,0,0,0,0,0
+Glenn County,3,0,0,0,3,30,0,21,9
+Humboldt County,310,1,21,59,229,1092,398,33,661
+Humboldt County,72,1,12,16,43,605,122,58,425
+Humboldt County,195,3,29,63,100,1350,187,186,977
+Humboldt County,4,0,0,0,4,24,2,5,17
+Humboldt County,28,0,2,9,17,317,50,36,231
+Humboldt County,11,1,1,1,8,61,21,4,36
+Humboldt County,5,0,1,1,3,120,15,2,103
+Humboldt County,0,0,0,0,0,0,0,0,0
+Humboldt County,0,0,0,0,0,40,0,0,40
+Humboldt County,1,0,0,0,1,317,1,211,105
+Imperial County,211,2,11,7,191,588,178,86,324
+Imperial County,121,2,4,8,107,618,95,55,468
+Imperial County,94,0,3,21,70,894,244,180,470
+Imperial County,143,3,9,41,90,1184,228,95,861
+Imperial County,14,0,1,2,11,70,13,4,53
+Imperial County,5,0,0,1,4,56,10,10,36
+Imperial County,0,0,0,0,0,0,0,0,0
+Imperial County,1,0,0,0,1,66,1,41,24
+Inyo County,60,1,9,3,47,192,86,1,105
+Inyo County,34,0,9,6,19,183,29,4,150
+Inyo County,0,0,0,0,0,0,0,0,0
+Inyo County,0,0,0,0,0,18,0,13,5
+Kern County,2864,29,244,433,2158,9449,2756,2013,4680
+Kern County,196,3,3,16,174,437,115,144,178
+Kern County,1766,34,116,701,915,16074,3888,2909,9277
+Kern County,205,8,8,33,156,1118,203,312,603
+Kern County,67,3,14,9,41,163,52,58,53
+Kern County,142,3,31,7,101,401,119,39,243
+Kern County,53,0,3,9,41,513,127,88,298
+Kern County,67,0,6,4,57,244,70,25,149
+Kern County,60,2,8,7,43,327,70,26,231
+Kern County,83,0,13,15,55,281,102,59,120
+Kern County,7,1,1,0,5,19,5,1,13
+Kern County,11,0,7,0,4,44,6,2,36
+Kern County,41,0,0,4,37,158,48,9,101
+Kern County,0,0,0,0,0,71,19,0,52
+Kern County,2,0,1,0,1,67,14,1,52
+Kern County,3,1,0,0,2,238,1,197,40
+Kings County,125,2,19,19,85,432,114,21,297
+Kings County,118,1,8,12,97,272,65,50,157
+Kings County,257,0,18,40,199,1242,131,211,900
+Kings County,126,1,17,14,94,372,71,37,264
+Kings County,0,0,0,0,0,1,1,0,0
+Kings County,62,0,2,0,60,4,2,0,2
+Kings County,69,0,7,3,59,58,26,4,28
+Kings County,0,0,0,0,0,85,0,71,14
+Lake County,193,3,21,19,150,435,204,6,225
+Lake County,34,0,3,7,24,160,29,21,110
+Lake County,119,1,19,36,63,460,146,104,210
+Lake County,1,1,0,0,0,173,0,135,38
+Lassen County,78,0,8,0,70,172,100,7,65
+Lassen County,196,0,7,10,179,207,45,5,157
+Lassen County,0,0,0,0,0,1,0,0,1
+Lassen County,0,0,0,0,0,39,0,30,9
+Los Angeles County,5564,68,300,1443,3753,15040,2798,3647,8595
+Los Angeles County,161,2,11,89,59,1749,259,187,1303
+Los Angeles County,84,1,10,35,38,1348,301,74,973
+Los Angeles County,72,1,2,28,41,284,90,33,161
+Los Angeles County,10,0,2,0,8,40,7,5,28
+Los Angeles County,144,5,17,46,76,959,174,139,646
+Los Angeles County,188,1,24,50,113,1110,196,308,606
+Los Angeles County,168,0,11,37,120,441,127,90,224
+Los Angeles County,327,1,29,107,190,1506,326,320,860
+Los Angeles County,147,0,4,69,74,630,78,218,334
+Los Angeles County,3,0,0,2,1,60,2,1,57
+Los Angeles County,4,0,0,1,3,79,29,5,45
+Los Angeles County,1,0,0,0,1,1933,1462,0,471
+Los Angeles County,6,0,0,0,6,21,0,1,20
+Los Angeles County,0,0,0,0,0,74,4,6,64
+Los Angeles County,13,0,5,6,2,189,44,5,140
+Los Angeles County,103,1,6,52,44,1499,257,45,1197
+Los Angeles County,1,0,0,1,0,10,2,2,6
+Los Angeles County,189,1,11,54,123,2617,299,211,2107
+Los Angeles County,51,0,6,23,22,774,191,31,552
+Los Angeles County,138,1,5,49,83,1004,128,252,624
+Los Angeles County,1104,18,40,427,619,2346,334,727,1285
+Los Angeles County,171,2,25,43,101,1189,239,171,779
+Los Angeles County,89,2,2,29,56,214,39,64,111
+Los Angeles County,182,0,2,102,78,1647,172,95,1380
+Los Angeles County,127,1,10,65,51,1634,314,122,1198
+Los Angeles County,21,0,6,4,11,306,66,17,223
+Los Angeles County,294,0,24,139,131,1898,215,117,1566
+Los Angeles County,12,0,0,0,12,14,5,0,9
+Los Angeles County,277,2,49,89,137,2059,392,219,1448
+Los Angeles County,72,1,4,25,42,908,282,52,574
+Los Angeles County,352,4,30,151,167,2473,344,563,1566
+Los Angeles County,55,0,2,10,43,305,48,42,215
+Los Angeles County,304,2,34,126,142,1787,347,394,1046
+Los Angeles County,82,0,5,30,47,625,164,74,387
+Los Angeles County,324,3,20,131,170,1202,236,308,658
+Los Angeles County,231,5,16,93,117,3305,480,263,2562
+Los Angeles County,155,1,21,38,95,1501,187,73,1241
+Los Angeles County,76,0,5,24,47,225,68,56,101
+Los Angeles County,636,3,34,190,409,1485,199,356,930
+Los Angeles County,51,0,7,9,35,449,97,26,326
+Los Angeles County,35,1,6,15,13,331,81,24,226
+Los Angeles County,44,1,5,16,22,416,86,19,311
+Los Angeles County,150,0,7,74,69,155,5,19,131
+Los Angeles County,1,0,1,0,0,18,10,1,7
+Los Angeles County,458,3,31,249,175,1595,214,520,861
+Los Angeles County,72,0,1,41,30,1180,156,125,899
+Los Angeles County,671,2,51,358,260,2321,308,657,1356
+Los Angeles County,26,0,1,8,17,240,73,28,139
+Los Angeles County,222,0,20,104,98,1846,303,189,1354
+Los Angeles County,86,0,6,28,52,701,145,93,463
+Los Angeles County,151,3,6,53,89,449,75,126,248
+Los Angeles County,51,1,6,13,31,627,133,47,447
+Los Angeles County,125,1,6,40,78,411,83,100,228
+Los Angeles County,67,0,4,26,37,254,53,40,161
+Los Angeles County,2369,34,249,958,1128,11297,2185,2358,6754
+Los Angeles County,29400,258,2274,9652,17216,95704,13809,15642,66253
+Los Angeles County,454,1,21,218,214,1419,189,507,723
+Los Angeles County,55,0,5,33,17,851,160,43,648
+Los Angeles County,90,2,7,23,58,296,60,93,143
+Los Angeles County,43,1,9,16,17,845,87,72,686
+Los Angeles County,178,0,11,90,77,1448,480,388,580
+Los Angeles County,126,0,7,59,60,1355,267,159,929
+Los Angeles County,432,5,21,138,268,1571,343,306,922
+Los Angeles County,658,8,55,194,401,2230,447,399,1384
+Los Angeles County,4,0,0,1,3,88,36,3,49
+Los Angeles County,347,4,16,151,176,1246,187,284,775
+Los Angeles County,613,4,46,147,416,2866,570,260,2036
+Los Angeles County,234,3,16,67,148,1052,198,273,581
+Los Angeles County,940,12,101,342,485,4208,816,863,2529
+Los Angeles County,160,1,5,53,101,1370,260,118,992
+Los Angeles County,1,0,0,0,1,8,6,0,2
+Los Angeles County,10,0,0,3,7,126,35,9,82
+Los Angeles County,175,1,11,74,89,942,196,194,552
+Los Angeles County,78,0,15,15,48,833,113,61,659
+Los Angeles County,80,1,4,25,50,243,52,79,112
+Los Angeles County,98,0,2,58,38,715,202,45,468
+Los Angeles County,14,0,1,3,10,208,77,5,126
+Los Angeles County,105,2,10,42,51,1035,205,176,654
+Los Angeles County,664,3,40,247,374,3964,577,244,3143
+Los Angeles County,15,0,1,0,14,79,29,4,46
+Los Angeles County,95,0,1,27,67,678,110,77,491
+Los Angeles County,102,1,11,32,58,500,132,114,254
+Los Angeles County,622,4,21,179,418,2754,351,740,1663
+Los Angeles County,29,0,2,11,16,566,94,38,434
+Los Angeles County,64,1,7,23,33,331,122,34,175
+Los Angeles County,280,3,26,114,137,2853,399,293,2161
+Los Angeles County,27,0,1,12,14,485,133,80,272
+Los Angeles County,38,0,4,14,20,386,152,27,207
+Los Angeles County,260,6,21,129,104,2369,354,355,1660
+Los Angeles County,213,1,27,93,92,1901,318,305,1278
+Los Angeles County,444,5,31,122,286,2004,328,399,1277
+Los Angeles County,8,0,2,1,5,165,24,11,130
+Los Angeles County,29,2,3,2,22,313,102,12,199
+Los Angeles County,6,0,2,3,1,21,4,0,17
+Los Angeles County,4,0,0,2,2,125,0,14,111
+Los Angeles County,4,0,1,1,2,99,4,6,89
+Los Angeles County,8,0,3,2,3,220,2,4,214
+Los Angeles County,15,0,2,6,7,323,114,11,198
+Los Angeles County,1359,7,114,374,864,3346,792,638,1916
+Los Angeles County,89,0,23,8,58,756,132,16,608
+Los Angeles County,48,0,0,0,48,507,5,363,139
+Los Angeles County,1181,0,10,1,1170,8,2,0,6
+Madera County,457,1,34,14,408,1017,375,21,621
+Madera County,39,0,2,3,34,234,71,54,109
+Madera County,334,2,32,77,223,1301,235,242,824
+Madera County,0,0,0,0,0,1,1,0,0
+Madera County,0,0,0,0,0,140,0,99,41
+Marin County,63,1,5,12,45,738,143,4,591
+Marin County,1,0,0,0,1,15,2,0,13
+Marin County,9,0,3,0,6,92,13,2,77
+Marin County,20,0,1,9,10,223,36,10,177
+Marin County,148,0,6,26,116,890,102,77,711
+Marin County,2,0,0,0,2,25,5,1,19
+Marin County,230,0,23,87,120,1686,299,214,1173
+Marin County,7,0,0,1,6,258,21,13,224
+Marin County,0,0,0,0,0,82,13,2,67
+Marin County,0,0,0,0,0,0,0,0,0
+Marin County,3,0,0,0,3,17,0,0,17
+Marin County,1,0,0,0,1,10,7,0,3
+Marin County,32,0,6,10,16,1094,360,50,684
+Marin County,0,0,0,0,0,313,0,47,266
+Mariposa County,79,0,8,2,69,171,53,3,115
+Mariposa County,0,0,0,0,0,11,0,2,9
+Mendocino County,178,2,29,14,133,414,174,15,225
+Mendocino County,32,0,5,7,20,316,38,16,262
+Mendocino County,110,1,9,24,76,298,117,34,147
+Mendocino County,16,0,2,6,8,92,28,13,51
+Mendocino County,0,0,0,0,0,0,0,0,0
+Mendocino County,0,0,0,0,0,135,0,84,51
+Merced County,500,4,19,24,453,1515,487,72,956
+Merced County,206,1,10,22,173,1031,140,183,708
+Merced County,64,0,0,2,62,169,36,44,89
+Merced County,21,0,2,4,15,116,32,30,54
+Merced County,40,0,1,11,28,315,85,66,164
+Merced County,143,2,12,36,93,886,231,149,506
+Merced County,540,5,34,103,398,2342,396,507,1439
+Merced County,0,0,0,0,0,2,0,0,2
+Merced County,0,0,0,0,0,3,3,0,0
+Merced County,6,0,4,0,2,89,8,4,77
+Merced County,0,0,0,0,0,430,0,336,94
+Modoc County,31,0,2,1,28,29,6,1,22
+Modoc County,10,0,2,1,7,30,14,3,13
+Modoc County,0,0,0,0,0,0,0,0,0
+Modoc County,2,0,0,0,2,7,0,4,3
+Mono County,25,0,3,0,22,53,21,0,32
+Mono County,42,0,15,1,26,131,17,9,105
+Mono County,0,0,0,0,0,3,0,2,1
+Monterey County,258,3,25,36,194,1125,361,31,733
+Monterey County,11,0,0,0,11,103,20,2,81
+Monterey County,7,0,0,6,1,39,8,1,30
+Monterey County,17,0,1,4,12,73,12,21,40
+Monterey County,54,1,9,9,35,165,31,36,98
+Monterey County,19,0,3,9,7,148,43,25,80
+Monterey County,78,0,11,23,44,975,127,74,774
+Monterey County,14,0,1,1,12,169,27,6,136
+Monterey County,782,8,66,241,467,3532,742,1081,1709
+Monterey County,9,0,0,2,7,77,4,3,70
+Monterey County,78,3,11,12,52,439,44,66,329
+Monterey County,53,0,4,14,35,136,24,29,83
+Monterey County,43,0,6,10,27,361,67,52,242
+Monterey County,0,0,0,0,0,9,0,3,6
+Monterey County,0,0,0,0,0,2,1,0,1
+Monterey County,0,0,0,0,0,24,7,2,15
+Monterey County,9,0,2,1,6,48,6,1,41
+Monterey County,1,0,0,0,1,310,0,216,94
+Napa County,69,0,11,7,51,269,55,2,212
+Napa County,6,0,0,0,6,70,7,9,54
+Napa County,280,1,66,55,158,1232,248,137,847
+Napa County,12,0,1,1,10,67,21,3,43
+Napa County,0,0,0,0,0,0,0,0,0
+Napa County,328,0,5,0,323,2,0,0,2
+Napa County,53,0,7,7,39,454,59,27,368
+Napa County,5,0,0,0,5,42,5,1,36
+Napa County,0,0,0,0,0,26,0,10,16
+Nevada County,118,0,9,6,103,424,191,7,226
+Nevada County,73,3,0,6,64,463,76,61,326
+Nevada County,15,0,4,1,10,89,26,14,49
+Nevada County,0,0,0,0,0,0,0,0,0
+Nevada County,31,0,3,4,24,114,36,12,66
+Nevada County,1,0,0,0,1,101,0,83,18
+Orange County,247,2,11,21,213,881,142,97,642
+Orange County,1120,8,141,396,575,8258,1123,1231,5904
+Orange County,72,0,10,29,33,1450,169,72,1209
+Orange County,246,1,15,91,139,2061,230,264,1567
+Orange County,312,0,52,104,156,3739,450,355,2934
+Orange County,52,1,7,21,23,596,98,74,424
+Orange County,17,0,1,7,9,302,41,19,242
+Orange County,53,0,5,23,25,1163,163,86,914
+Orange County,373,2,80,108,183,3157,318,360,2479
+Orange County,505,6,54,185,260,3909,627,504,2778
+Orange County,386,2,61,99,224,4144,535,329,3280
+Orange County,38,1,17,5,15,326,43,22,261
+Orange County,140,0,20,41,79,1122,188,145,789
+Orange County,6,0,1,3,2,130,41,16,73
+Orange County,135,5,29,32,69,1764,273,147,1344
+Orange County,180,3,18,76,83,2184,387,251,1546
+Orange County,192,0,13,28,151,889,275,103,511
+Orange County,87,1,3,29,54,918,160,58,700
+Orange County,63,2,4,20,37,297,69,27,201
+Orange County,1453,13,207,472,761,6808,854,1343,4611
+Orange County,19,0,1,10,8,551,62,31,458
+Orange County,95,3,10,31,51,526,83,99,344
+Orange County,141,1,16,61,63,2118,241,183,1694
+Orange County,4,0,0,0,4,44,9,0,35
+Orange County,259,0,19,122,118,2611,511,276,1824
+Orange County,42,0,3,17,22,627,140,54,433
+Orange County,188,1,52,66,69,3823,574,163,3086
+Orange County,6,1,3,0,2,204,8,2,194
+Orange County,1,0,0,1,0,4,2,0,2
+Orange County,0,0,0,0,0,147,102,0,45
+Orange County,1,0,0,0,1,0,0,0,0
+Orange County,65,1,8,22,34,866,121,56,689
+Orange County,52,0,0,18,34,399,61,27,311
+Orange County,43,1,9,12,21,607,105,39,463
+Orange County,32,0,3,15,14,405,82,35,288
+Orange County,66,1,7,14,44,684,108,73,503
+Orange County,7,0,0,2,5,124,20,8,96
+Orange County,30,0,4,12,14,296,34,12,250
+Orange County,27,1,3,13,10,433,57,25,351
+Orange County,0,0,0,0,0,11,2,0,9
+Orange County,21,0,7,1,13,464,19,8,437
+Orange County,21,0,0,2,19,144,2,107,35
+Placer County,183,3,28,13,139,1077,278,30,769
+Placer County,50,0,8,5,37,237,72,19,146
+Placer County,32,0,4,4,24,468,78,39,351
+Placer County,67,0,22,13,32,983,168,77,738
+Placer County,259,4,32,96,127,3154,389,247,2518
+Placer County,0,0,0,0,0,17,0,0,17
+Placer County,0,0,0,0,0,9,1,0,8
+Placer County,6,0,0,0,6,193,6,129,58
+Plumas County,128,1,9,5,113,294,116,11,167
+Plumas County,0,0,0,0,0,1,0,0,1
+Plumas County,0,0,0,0,0,19,0,12,7
+Riverside County,932,24,37,179,692,7220,1454,1446,4320
+Riverside County,136,2,16,27,91,532,179,143,210
+Riverside County,92,2,14,38,38,922,178,196,548
+Riverside County,92,0,7,29,56,644,177,33,434
+Riverside County,126,0,9,43,74,894,135,179,580
+Riverside County,255,5,13,59,178,680,301,163,216
+Riverside County,343,5,23,121,194,2877,757,573,1547
+Riverside County,530,1,45,118,366,1880,304,358,1218
+Riverside County,49,0,3,14,32,669,136,99,434
+Riverside County,267,7,38,66,156,1966,502,254,1210
+Riverside County,262,4,6,97,155,2071,268,555,1248
+Riverside County,1686,17,139,476,1054,9790,1302,1491,6997
+Riverside County,108,2,1,68,37,1637,334,285,1018
+Riverside County,291,4,43,103,141,3482,646,585,2251
+Riverside County,13,0,1,2,10,138,44,5,89
+Riverside County,45,0,1,7,37,628,120,49,459
+Riverside County,136,3,7,24,102,1848,338,128,1382
+Riverside County,1,0,0,0,1,25,13,0,12
+Riverside County,1,0,0,0,1,2,0,0,2
+Riverside County,144,7,19,48,70,602,182,193,227
+Riverside County,173,3,3,43,124,2005,233,363,1409
+Riverside County,68,5,5,17,41,1032,158,65,809
+Riverside County,847,15,19,290,523,5534,966,1079,3489
+Riverside County,166,1,8,72,85,2626,318,290,2018
+Riverside County,22,0,0,7,15,280,51,36,193
+Riverside County,15,0,0,1,14,74,15,12,47
+Riverside County,77,3,19,26,29,1512,206,226,1080
+Riverside County,2,0,0,2,0,39,3,4,32
+Riverside County,61,0,1,12,48,637,101,161,375
+Riverside County,145,2,4,47,92,1892,269,350,1273
+Riverside County,83,0,3,23,57,944,151,117,676
+Riverside County,11,0,5,3,3,305,32,6,267
+Riverside County,13,0,0,0,13,83,7,56,20
+Riverside County,317,6,7,86,218,2494,406,742,1346
+Riverside County,2,0,0,1,1,22,3,6,13
+Sacramento County,2408,36,161,685,1526,8067,2276,157,5634
+Sacramento County,82,0,12,29,41,1484,278,79,1127
+Sacramento County,77,0,10,15,52,449,71,38,340
+Sacramento County,7,1,0,0,6,4,1,1,2
+Sacramento County,3223,34,127,1039,2023,16354,2993,2717,10644
+Sacramento County,3,0,0,1,2,162,13,4,145
+Sacramento County,372,0,35,114,223,2599,292,200,2107
+Sacramento County,4,0,2,1,1,31,0,0,31
+Sacramento County,21,0,0,16,5,103,70,8,25
+Sacramento County,5,0,1,2,2,49,5,3,41
+Sacramento County,5,0,0,0,5,3,0,1,2
+Sacramento County,0,0,0,0,0,1,0,0,1
+Sacramento County,0,0,0,0,0,2,1,0,1
+Sacramento County,225,5,12,56,152,1422,233,185,1004
+Sacramento County,313,1,46,76,190,2248,372,269,1607
+Sacramento County,7,0,1,1,5,141,3,7,131
+Sacramento County,13,1,0,0,12,3105,3,1728,1374
+San Benito County,33,0,7,2,24,152,34,13,105
+San Benito County,114,1,15,27,71,311,61,76,174
+San Benito County,0,0,0,0,0,1,1,0,0
+San Benito County,0,0,0,0,0,0,0,0,0
+San Benito County,0,0,0,0,0,8,0,4,4
+San Bernardino County,1503,27,115,189,1172,3945,1142,928,1875
+San Bernardino County,274,5,10,82,177,986,285,174,527
+San Bernardino County,329,3,35,96,195,2224,376,199,1649
+San Bernardino County,215,1,9,103,102,1517,317,364,836
+San Bernardino County,739,6,83,206,444,3094,483,765,1846
+San Bernardino County,234,2,35,70,127,1469,355,246,868
+San Bernardino County,71,1,4,6,60,174,66,11,97
+San Bernardino County,659,10,85,223,341,4290,710,928,2652
+San Bernardino County,257,1,40,70,146,2108,330,244,1534
+San Bernardino County,595,8,65,185,337,3149,403,567,2179
+San Bernardino County,2858,46,140,906,1766,9081,2029,2078,4974
+San Bernardino County,298,3,20,107,168,1821,368,247,1206
+San Bernardino County,988,5,45,255,683,2271,590,620,1061
+San Bernardino County,276,1,20,42,213,459,136,114,209
+San Bernardino County,4,0,2,1,1,69,4,8,57
+San Bernardino County,500,4,39,108,349,3456,590,306,2560
+San Bernardino County,76,0,7,4,65,135,30,13,92
+San Bernardino County,37,1,4,8,24,237,55,33,149
+San Bernardino County,77,0,7,17,53,559,125,98,336
+San Bernardino County,67,0,3,53,11,264,124,11,129
+San Bernardino County,3,0,0,1,2,35,3,4,28
+San Bernardino County,362,7,19,90,246,906,167,228,511
+San Bernardino County,117,0,10,15,92,265,96,35,134
+San Bernardino County,462,8,35,111,308,1664,443,328,893
+San Bernardino County,339,4,19,68,248,1105,230,215,660
+San Bernardino County,200,3,14,31,152,641,172,104,365
+San Bernardino County,1,0,1,0,0,40,1,5,34
+San Bernardino County,95,1,10,20,64,891,222,63,606
+San Bernardino County,160,0,9,25,126,292,84,51,157
+San Bernardino County,31,0,3,10,18,70,8,6,56
+San Bernardino County,2,0,0,0,2,43,33,0,10
+San Bernardino County,356,0,2,0,354,1,1,0,0
+San Bernardino County,0,0,0,0,0,3,1,1,1
+San Bernardino County,34,0,0,1,33,152,0,87,65
+San Diego County,1499,10,104,224,1161,4300,901,901,2498
+San Diego County,240,3,40,39,158,2135,297,167,1671
+San Diego County,904,3,61,265,575,3816,486,827,2503
+San Diego County,9,0,1,7,1,324,34,14,276
+San Diego County,7,0,1,2,4,67,17,13,37
+San Diego County,552,3,38,201,310,2046,371,359,1316
+San Diego County,536,4,51,143,338,2373,379,395,1599
+San Diego County,72,0,5,16,51,331,57,79,195
+San Diego County,174,1,22,76,75,1000,138,147,715
+San Diego County,364,0,26,130,208,1123,114,274,735
+San Diego County,712,4,97,163,448,3736,426,452,2858
+San Diego County,5215,50,561,1346,3258,27141,3543,5172,18426
+San Diego County,193,0,17,46,130,955,163,143,649
+San Diego County,354,2,38,93,221,1438,251,242,945
+San Diego County,20,0,7,4,9,441,38,14,389
+San Diego County,75,0,8,20,47,655,65,5,585
+San Diego County,0,0,0,0,0,1,1,0,0
+San Diego County,1,0,0,0,1,0,0,0,0
+San Diego County,13,0,0,1,12,59,1,1,57
+San Diego County,1,0,0,1,0,21,1,0,20
+San Diego County,10,0,2,0,8,502,24,59,419
+San Diego County,43,0,0,0,43,143,1,92,50
+San Diego County,167,2,4,54,107,552,67,120,365
+San Diego County,98,0,8,29,61,806,74,73,659
+San Diego County,51,2,2,12,35,490,91,45,354
+San Diego County,86,2,10,15,59,605,115,68,422
+San Diego County,13,0,3,4,6,173,39,19,115
+San Francisco County,5933,40,324,3055,2514,48780,4644,4249,39887
+San Francisco County,14,0,5,7,2,196,22,6,168
+San Francisco County,132,0,0,104,28,624,4,1,619
+San Francisco County,1,0,0,0,1,1,0,0,1
+San Francisco County,11,0,1,7,3,371,15,5,351
+San Francisco County,1,0,0,0,1,40,0,23,17
+San Joaquin County,903,5,35,162,701,2439,719,131,1589
+San Joaquin County,16,0,1,0,15,135,25,8,102
+San Joaquin County,237,3,16,88,130,1658,358,284,1016
+San Joaquin County,199,3,27,66,103,1848,239,282,1327
+San Joaquin County,13,0,6,4,3,248,23,19,206
+San Joaquin County,4380,34,181,1158,3007,12367,2209,1678,8480
+San Joaquin County,166,5,35,62,64,1843,156,276,1411
+San Joaquin County,38,0,0,20,18,130,31,1,98
+San Joaquin County,0,0,0,0,0,170,11,0,159
+San Joaquin County,0,0,0,0,0,571,0,399,172
+San Luis Obispo County,181,5,26,5,145,963,331,18,614
+San Luis Obispo County,27,0,2,7,18,275,35,21,219
+San Luis Obispo County,13,0,3,1,9,239,56,32,151
+San Luis Obispo County,21,0,1,3,17,127,15,10,102
+San Luis Obispo County,53,0,9,13,31,646,78,45,523
+San Luis Obispo County,29,0,0,6,23,341,89,16,236
+San Luis Obispo County,192,0,44,34,114,1738,277,74,1387
+San Luis Obispo County,4,0,3,0,1,122,15,2,105
+San Luis Obispo County,65,0,7,7,51,493,96,37,360
+San Luis Obispo County,0,0,0,0,0,22,0,1,21
+San Luis Obispo County,2,0,0,1,1,35,2,2,31
+San Luis Obispo County,43,0,0,0,43,1,1,0,0
+San Luis Obispo County,0,0,0,0,0,2,0,0,2
+San Luis Obispo County,0,0,0,0,0,7,0,0,7
+San Luis Obispo County,0,0,0,0,0,108,0,66,42
+San Mateo County,324,3,71,62,188,3245,297,336,2612
+San Mateo County,12,0,2,4,6,110,32,4,74
+San Mateo County,45,1,8,1,35,392,50,30,312
+San Mateo County,10,0,2,0,8,137,64,21,52
+San Mateo County,74,0,9,25,40,1185,162,86,937
+San Mateo County,28,0,0,20,8,325,36,26,263
+San Mateo County,232,0,44,91,97,1868,170,181,1517
+San Mateo County,5,0,0,1,4,97,46,2,49
+San Mateo County,50,0,16,13,21,774,110,31,633
+San Mateo County,79,1,22,14,42,533,81,44,408
+San Mateo County,189,0,32,70,87,1343,165,164,1014
+San Mateo County,138,0,17,34,87,1139,116,75,948
+San Mateo County,266,2,45,68,151,2217,516,178,1523
+San Mateo County,166,2,19,64,81,1484,230,180,1074
+San Mateo County,11,0,2,7,2,82,15,12,55
+San Mateo County,39,0,10,8,21,425,63,21,341
+San Mateo County,24,0,1,13,10,345,1,12,332
+San Mateo County,0,0,0,0,0,0,0,0,0
+San Mateo County,0,0,0,0,0,0,0,0,0
+San Mateo County,144,1,22,57,64,533,67,106,360
+San Mateo County,1,0,0,0,1,38,1,13,24
+Santa Barbara County,232,2,17,26,187,1257,305,14,938
+Santa Barbara County,15,0,2,3,10,82,32,16,34
+Santa Barbara County,291,7,29,32,223,1057,238,236,583
+Santa Barbara County,400,2,72,82,244,2118,254,178,1686
+Santa Barbara County,466,5,52,139,270,1475,257,397,821
+Santa Barbara County,11,1,0,3,7,155,19,20,116
+Santa Barbara County,0,0,0,0,0,1,0,0,1
+Santa Barbara County,10,0,0,2,8,68,18,4,46
+Santa Barbara County,0,0,0,0,0,9,0,0,9
+Santa Barbara County,3,0,0,0,3,54,15,8,31
+Santa Barbara County,40,0,2,6,32,509,114,40,355
+Santa Barbara County,61,0,37,2,22,341,17,4,320
+Santa Barbara County,0,0,0,0,0,181,0,129,52
+Santa Clara County,356,2,40,25,289,1518,178,186,1154
+Santa Clara County,89,0,22,21,46,1357,209,158,990
+Santa Clara County,55,1,6,14,34,1018,175,40,803
+Santa Clara County,251,5,37,69,140,1479,186,259,1034
+Santa Clara County,21,0,3,4,14,310,107,22,181
+Santa Clara County,3,0,1,0,2,67,29,0,38
+Santa Clara County,14,0,2,6,6,419,57,30,332
+Santa Clara County,102,2,15,48,37,2193,201,201,1791
+Santa Clara County,0,0,0,0,0,12,2,1,9
+Santa Clara County,52,2,3,14,33,703,102,94,507
+Santa Clara County,165,0,20,49,96,2463,321,112,2030
+Santa Clara County,86,1,10,46,29,1983,179,82,1722
+Santa Clara County,4559,32,671,1339,2517,25164,4114,6126,14924
+Santa Clara County,214,0,35,73,106,4748,363,372,4013
+Santa Clara County,16,0,4,2,10,240,104,14,122
+Santa Clara County,259,0,37,84,138,3380,458,324,2598
+Santa Clara County,23,0,8,4,11,287,22,10,255
+Santa Clara County,0,0,0,0,0,27,8,1,18
+Santa Clara County,1,0,0,1,0,26,4,0,22
+Santa Clara County,2,0,1,1,0,28,4,0,24
+Santa Clara County,1,0,0,0,1,3,0,0,3
+Santa Clara County,92,0,3,36,53,116,4,15,97
+Santa Clara County,0,0,0,0,0,65,0,37,28
+Santa Cruz County,331,5,58,34,234,1630,439,17,1174
+Santa Cruz County,30,0,3,6,21,528,53,21,454
+Santa Cruz County,389,0,29,88,272,2932,348,221,2363
+Santa Cruz County,328,1,37,53,237,971,148,234,589
+Santa Cruz County,13,0,2,1,10,141,31,8,102
+Santa Cruz County,0,0,0,0,0,0,0,0,0
+Santa Cruz County,0,0,0,0,0,118,0,2,116
+Santa Cruz County,15,0,8,0,7,184,20,2,162
+Santa Cruz County,0,0,0,0,0,501,0,323,178
+Shasta County,386,4,41,34,307,824,415,77,332
+Shasta County,61,1,5,12,43,363,63,92,208
+Shasta County,174,1,17,31,125,937,150,207,580
+Shasta County,0,0,0,0,0,5,1,0,4
+Shasta County,2,0,0,0,2,0,0,0,0
+Shasta County,0,0,0,0,0,284,1,205,78
+Sierra County,1,0,0,0,1,31,15,0,16
+Sierra County,0,0,0,0,0,0,0,0,0
+Sierra County,0,0,0,0,0,0,0,0,0
+Siskiyou County,70,5,2,2,61,146,69,8,69
+Siskiyou County,4,0,0,0,4,11,8,1,2
+Siskiyou County,14,0,4,0,10,18,6,1,11
+Siskiyou County,2,0,1,0,1,0,0,0,0
+Siskiyou County,2,0,1,0,1,34,12,1,21
+Siskiyou County,8,0,1,0,7,32,15,4,13
+Siskiyou County,12,1,0,2,9,35,5,6,24
+Siskiyou County,3,0,1,0,2,4,1,0,3
+Siskiyou County,34,0,3,4,27,55,8,9,38
+Siskiyou County,28,0,0,1,27,235,34,29,172
+Siskiyou County,3,0,0,0,3,10,2,2,6
+Siskiyou County,0,0,0,0,0,2,0,0,2
+Siskiyou County,1,0,0,0,1,54,1,32,21
+Solano County,109,1,13,18,77,377,110,75,192
+Solano County,16,0,1,13,2,377,72,55,250
+Solano County,54,0,4,14,36,389,35,70,284
+Solano County,442,5,48,162,227,3782,359,643,2780
+Solano County,11,0,2,3,6,140,31,22,87
+Solano County,114,0,11,35,68,664,69,116,479
+Solano County,331,3,47,80,201,2442,162,160,2120
+Solano County,1037,12,138,336,551,4941,2888,905,1148
+Solano County,0,0,0,0,0,18,1,0,17
+Solano County,0,0,0,0,0,31,0,19,12
+Sonoma County,497,1,45,36,415,1089,350,6,733
+Sonoma County,16,0,1,0,15,116,25,4,87
+Sonoma County,40,1,6,5,28,95,15,12,68
+Sonoma County,17,1,1,3,12,176,17,17,142
+Sonoma County,267,0,28,28,211,786,93,78,615
+Sonoma County,857,3,146,126,582,2874,486,311,2077
+Sonoma County,21,0,3,7,11,177,51,16,110
+Sonoma County,38,0,6,1,31,122,21,6,95
+Sonoma County,190,3,22,28,137,789,109,54,626
+Sonoma County,12,0,10,0,2,68,26,0,42
+Sonoma County,0,0,0,0,0,1,0,0,1
+Sonoma County,0,0,0,0,0,0,0,0,0
+Sonoma County,1,0,0,1,0,19,2,0,17
+Sonoma County,2,0,1,0,1,55,2,0,53
+Sonoma County,58,0,8,8,42,257,30,15,212
+Sonoma County,0,0,0,0,0,136,1,47,88
+Stanislaus County,370,8,17,90,255,1602,559,43,1000
+Stanislaus County,209,1,12,59,137,1158,239,291,628
+Stanislaus County,1758,13,94,399,1252,7183,1149,1185,4849
+Stanislaus County,16,0,2,3,11,113,25,20,68
+Stanislaus County,40,1,5,9,25,531,99,90,342
+Stanislaus County,46,0,6,14,26,434,81,104,249
+Stanislaus County,24,1,3,7,13,375,49,53,273
+Stanislaus County,426,1,29,138,258,2323,402,438,1483
+Stanislaus County,13,0,1,5,7,143,17,50,76
+Stanislaus County,5,0,0,0,5,46,8,9,29
+Stanislaus County,1,0,1,0,0,44,0,6,38
+Stanislaus County,0,0,0,0,0,4,0,0,4
+Stanislaus County,0,0,0,0,0,318,0,202,116
+Sutter County,77,1,4,13,59,576,167,59,350
+Sutter County,241,3,28,52,158,1823,230,259,1334
+Sutter County,0,0,0,0,0,1,1,0,0
+Sutter County,0,0,0,0,0,47,0,34,13
+Tehama County,95,2,14,12,67,472,179,15,278
+Tehama County,28,0,6,4,18,211,51,33,127
+Tehama County,133,1,26,14,92,787,205,115,467
+Tehama County,0,0,0,0,0,4,0,0,4
+Tehama County,0,0,0,0,0,149,1,91,57
+Trinity County,61,2,10,9,40,190,83,6,101
+Trinity County,0,0,0,0,0,0,0,0,0
+Trinity County,0,0,0,0,0,47,0,26,21
+Tulare County,334,9,30,64,231,1893,637,2,1254
+Tulare County,161,1,5,25,130,530,58,67,405
+Tulare County,26,0,5,5,16,265,52,25,188
+Tulare County,35,0,0,5,30,190,24,28,138
+Tulare County,69,0,5,13,51,250,48,83,119
+Tulare County,192,2,7,47,136,1297,213,249,835
+Tulare County,261,4,27,69,161,1469,225,293,951
+Tulare County,586,4,111,159,312,3900,747,526,2627
+Tulare County,28,0,4,2,22,88,14,13,61
+Tulare County,0,0,0,0,0,2,1,0,1
+Tulare County,0,0,0,0,0,40,5,5,30
+Tulare County,0,0,0,0,0,701,1,554,146
+Tuolumne County,169,2,62,7,98,669,306,8,355
+Tuolumne County,26,0,6,6,14,269,69,20,180
+Tuolumne County,0,0,0,0,0,136,0,73,63
+Ventura County,159,5,18,25,111,543,112,68,363
+Ventura County,58,0,22,16,20,817,100,41,676
+Ventura County,20,0,5,3,12,123,24,10,89
+Ventura County,8,0,5,0,3,74,15,3,56
+Ventura County,724,13,62,275,374,4242,670,585,2987
+Ventura County,43,0,5,14,24,415,63,47,305
+Ventura County,91,2,6,21,62,404,103,29,272
+Ventura County,88,0,27,23,38,1392,244,64,1084
+Ventura County,458,3,56,106,293,2969,353,254,2362
+Ventura County,146,1,15,35,95,1188,208,91,889
+Ventura County,2,0,1,0,1,22,0,0,22
+Ventura County,26,0,7,7,12,228,34,11,183
+Ventura County,0,0,0,0,0,64,5,0,59
+Ventura County,1,0,0,0,1,0,0,0,0
+Ventura County,0,0,0,0,0,1,0,0,1
+Ventura County,4,0,3,1,0,64,0,2,62
+Ventura County,2,0,0,1,1,52,15,2,35
+Ventura County,0,0,0,0,0,36,0,27,9
+Yolo County,69,0,8,6,55,294,79,11,204
+Yolo County,107,2,21,44,40,2190,274,100,1816
+Yolo County,11,0,0,1,10,115,19,15,81
+Yolo County,224,3,18,44,159,1488,231,195,1062
+Yolo County,212,1,34,79,98,1603,236,209,1158
+Yolo County,0,0,0,0,0,1,0,0,1
+Yolo County,14,0,6,2,6,906,86,26,794
+Yolo County,0,0,0,0,0,47,0,31,16
+Yuba County,204,5,21,37,141,847,316,11,520
+Yuba County,116,2,20,23,71,541,81,136,324
+Yuba County,6,0,0,1,5,43,8,9,26
+Yuba County,0,0,0,0,0,2,0,0,2
+Yuba County,0,0,0,0,0,411,0,319,92
